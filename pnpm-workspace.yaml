@@ -1,0 +1,5 @@
+packages:
+  - "root-app"
+  - "about"
+  - "product"
+  - "cart"
